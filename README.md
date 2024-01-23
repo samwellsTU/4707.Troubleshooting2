@@ -38,7 +38,7 @@ Either way, open up `script.js` and methodically go through the object called `m
 
 ### Grading Criteria
 
-Your code contained in `script.js` will be auto-graded by GitHub classroom on the following 15 criteria. You must meet all 10 points to pass this assignment.
+Your code contained in `script.js` will be auto-graded by GitHub classroom on the following 9 criteria. You must meet all 9 points to pass this assignment.
 GitHub Classroom will import your `BigHit` class and make a new instance of it called `mySong`:
 
 
